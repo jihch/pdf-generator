@@ -1,0 +1,24 @@
+#生成文件
+target: "E:\\record\\2022\\2\\24\\exam.pdf"
+
+#生成几个题目
+question-size: 6
+
+#左边距
+margin-left: 25
+
+#假定页面高度
+height: 753.125
+
+#生成题目字号
+font-size: 12
+
+#使用字体
+font-path: "C:\\Windows\\Fonts\\Dengl.ttf"
+
+#题目Excel数据库
+#excel-db: "E:\\record\\2022\\4\\9\\q.xlsx"
+excel-db: "D:\\Users\\Documents\\GitHub\\code_repo\\题库\\题库.xlsx"
+
+#如果sheet-name不为空，则只装载指定sheet
+sheet-name: "Kafka"
